@@ -4,15 +4,15 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
+[Lab Website](https://www.siat.ac.cn/) is an easy-to-use, flexible website template for [labs](https://www.siat.ac.cn/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
 
 {%
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="GitHub"
+  link="https://www.siat.ac.cn/"
   style="button"
 %}
 {%
@@ -20,7 +20,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link="https://www.siat.ac.cn/"
   style="button"
 %}
 {:.center}
